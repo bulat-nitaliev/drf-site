@@ -2,7 +2,7 @@
 `Postgresql Serializers CRUD Permissions Authentication (Session Cookies, Token, JWT)`
 
 ```shell
-git clone
+git clone https://github.com/bulat-nitaliev/drf-site.git
 ```
 
 
